@@ -30,3 +30,6 @@ It supports addition, subtraction, multiplication, and division with clean scree
 3. Compile the program:
    ```bash
    javac ConsoleCalculator.java
+4. Run the compiled class:
+   ```bash
+   java ConsoleCalculator
